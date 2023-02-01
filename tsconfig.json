@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "noImplicitAny": false,
+    "strictNullChecks": true,
+    "strict": true // 위에서 noImplicitAny와 strictNullChecks를 둘 다 포함한 것!
+  },
+  "include": ["src/**/*"]
+}
